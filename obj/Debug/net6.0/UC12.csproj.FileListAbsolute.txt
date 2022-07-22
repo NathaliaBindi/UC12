@@ -1,0 +1,15 @@
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\UC12.exe
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\UC12.deps.json
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\UC12.runtimeconfig.json
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\UC12.dll
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\ref\UC12.dll
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\bin\Debug\net6.0\UC12.pdb
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.csproj.AssemblyReference.cache
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.AssemblyInfoInputs.cache
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.AssemblyInfo.cs
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.dll
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\ref\UC12.dll
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.pdb
+C:\Users\Nathalia\Documents\Programação\SENAI\BACK-END\UC12\obj\Debug\net6.0\UC12.genruntimeconfig.cache
